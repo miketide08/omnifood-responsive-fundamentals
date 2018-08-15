@@ -23,9 +23,9 @@ You are then good to go!
 ## Built With
 
 * JavaScript
-* CSS3 w/ floating grid layout
+* CSS3 w/ media queries, animations, floating grid layout, etc.
 * HTML5
-* Waypoints library - included in local files.
+
 
 ## Authors
 
