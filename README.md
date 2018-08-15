@@ -13,9 +13,6 @@ sizing of the page manually or by using web tools to check out the responsivenes
 
 Local web browser installed like Chrome, Firefox, or Edge.
 
-```
-Give examples
-```
 
 ### Installing
 
@@ -32,9 +29,8 @@ You are then good to go!
 
 ## Authors
 
-* **Michael Brown** 
+* **Michael Brown** - Initial course by Jonas Schmedtman.
 
 ## Acknowledgments
 
-* This site was created for educational purposes only using Jonas Schmedtman's course Build Responsive Real World Websites with HTML5 and CSS3 
-* https://www.udemy.com/design-and-develop-a-killer-website-with-html5-and-css3/learn/v4/overview
+* This site was created for educational purposes only using Jonas Schmedtman's course Build Responsive Real World Websites with HTML5 and CSS3: https://www.udemy.com/design-and-develop-a-killer-website-with-html5-and-css3/learn/v4/overview
