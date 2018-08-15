@@ -1,5 +1,8 @@
 # Basics of Responsive Modern Web Design with HTML5 and CSS3
 
+## View the site:
+https://miketide08.github.io/omnifood-responsive-fundamentals/
+
 This project was created using a course to learn modern web design, HTML5 and CSS3 step-by-step from scratch. I designed and coded a 
 large project during this course. This project uses media queries, floating grid system, animations, scroll effects and "sticky" navigation
 to create unique effects.
